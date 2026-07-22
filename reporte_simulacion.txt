@@ -1,0 +1,5 @@
+=== REPORTE FINAL DE LA SIMULACION ===
+Dias transcurridos: 1
+Total de poblacion sana restante: 21
+Total de poblacion infectada: 38
+Total de poblacion recuperada/inmune: 5
